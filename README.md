@@ -7,7 +7,7 @@ Computer Engineering Student
 
 <p align="center">
 🎓 Government Engineering College, Bhavnagar <br>
-📅 Final Year (2026-27) <br>
+📅 3rd Year (2025-28) <br>
 📍 Gujarat, India
 </p>
 
