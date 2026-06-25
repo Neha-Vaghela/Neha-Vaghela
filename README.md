@@ -3,7 +3,8 @@
 <h3 align="center">
 Computer Engineering Student 
 </h3>
-<h4>| Software Engineer | Full Stack Developer | AI/ML Enthusiast </h4>
+<h4 align = "center"> Software Engineer | Full Stack Developer | AI/ML Enthusiast </h4>
+
 <p align="center">
 🎓 Government Engineering College, Bhavnagar <br>
 📅 Final Year (2026-27) <br>
