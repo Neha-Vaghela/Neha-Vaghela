@@ -20,7 +20,7 @@ I am a passionate <b>Software Engineering student</b> with a strong interest in 
 
 My primary focus is on <b>Full Stack Application Development</b>, <b>Backend Development</b>, <b>Android App Development</b>, and <b>Artificial Intelligence & Machine Learning</b>.
 
-I enjoy transforming ideas into practical applications, solving challenging problems, and continuously learning new technologies to enhance my development skills.
+I interested in transforming ideas into practical applications, solving challenging problems, and continuously learning new technologies to enhance my development skills.
 </p>
 
 <ul>
@@ -33,27 +33,13 @@ I enjoy transforming ideas into practical applications, solving challenging prob
 
 <hr>
 
-<h2>🚀 Areas of Interest</h2>
-
-<ul>
-<li>Software Engineering</li>
-<li>Artificial Intelligence & Machine Learning</li>
-<li>Full Stack Application Development</li>
-<li>Backend Development</li>
-<li>Android Development</li>
-<li>Database Management Systems</li>
-<li>REST API Development</li>
-<li>Open Source Contributions</li>
-</ul>
-
-<hr>
 
 <h2>🛠️ Tech Stack</h2>
 
 <h3>Programming Languages</h3>
 
 <p>
-Java • Kotlin • Python • C++ • JavaScript • PHP
+Java • Kotlin • Python • JavaScript • PHP
 </p>
 
 <h3>Frontend Development</h3>
@@ -65,13 +51,13 @@ HTML5 • CSS3 • JavaScript
 <h3>Backend Development</h3>
 
 <p>
-Node.js • Express.js • Python • REST APIs • JWT Authentication
+Node.js • Express.js • JWT Authentication • REST APIs   
 </p>
 
-<h3>Mobile Development</h3>
+<h3>Andoid Application Development</h3>
 
 <p>
-Android Studio • Java • Kotlin • XML • Firebase • RecyclerView
+Android Studio • Java • Kotlin • XML • Firebase • Jetpack Compose
 </p>
 
 <h3>Databases</h3>
@@ -100,23 +86,11 @@ Git • GitHub • Postman • Figma • VS Code
 
 <hr>
 
-<h2>🎯 Career Goals</h2>
-
-<ul>
-<li>Become a Professional Software Engineer</li>
-<li>Build High-Quality Real-World Applications</li>
-<li>Contribute to Open Source Projects</li>
-<li>Master Backend Architecture & AI/ML Technologies</li>
-<li>Continuously Learn and Grow as a Developer</li>
-</ul>
-
-<hr>
-
 <h2>📫 Connect With Me</h2>
 
 <p>
-📧 Email: your-email@example.com <br>
-💼 LinkedIn: Your LinkedIn Profile
+📧 Email: nehavaghela65@gmail.com<br>
+💼 LinkedIn: www.linkedin.com/in/nehavaghela/
 </p>
 
 <hr>
